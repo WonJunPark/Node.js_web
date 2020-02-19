@@ -1,0 +1,6 @@
+
+var a = 1;
+console.log(a);
+
+var letter = 'adsjflasdflkadsjlfjsdaklasdjkfldas';
+console.log(letter);
