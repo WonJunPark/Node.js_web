@@ -1,0 +1,25 @@
+{
+  "name": "nodejun",
+  "version": "1.0.0",
+  "description": "생활코딩 사이트에서 node.js로 웹 백엔드를 다루는 방법에 대한 방법을 공부한다.\r https://opentutorials.org/course/3332/21029",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WonJunPark/Node.js_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WonJunPark/Node.js_web/issues"
+  },
+  "homepage": "https://github.com/WonJunPark/Node.js_web#readme",
+  "dependencies": {
+    "sanitize-html": "^1.21.1"
+  }
+}
